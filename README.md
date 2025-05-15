@@ -19,7 +19,7 @@ The project sets up a basic web application connected to a MongoDB database usin
 
 ## K8 Describe Pod Output
 
-![Environment variables and configurations for the webapp pod](k8GetPod.png)
+![Environment variables and configurations for webapp pod](k8GetPod.png)
 
 ---
 
